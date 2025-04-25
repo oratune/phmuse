@@ -8,7 +8,7 @@
 
 ----
 
-## Musescore 주요 단축키
+## Musescore 주요 단축키 (Musescore 3 기준)
 
 ### 음표입력
   * N: 음표입력
