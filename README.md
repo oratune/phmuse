@@ -20,6 +20,12 @@ git clone https://github.com/oratune/phmuse.git [로컬디렉토리]
 # 연결된 원격 저장소 확인
 git remote --verbose
 
+# 원격 저장소 추가
+git remote add origin {repository 주소}
+
+git remote add origin https://github.com/oratune/phmuse.git
+
+
 # 신규 파일을 버전관리에 추가
 git add <filename>
 
